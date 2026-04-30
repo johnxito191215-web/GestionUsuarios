@@ -1,7 +1,7 @@
 <?php
 $host = "ftp-johnxito.alwaysdata.net";
 $usuario = "johnxito";
-$password = "alexander123";
+$password = "alex123";
 $bd = "gestion_usuarios";
 
 $conn = new mysqli($host, $usuario, $password, $bd);
