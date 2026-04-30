@@ -1,5 +1,5 @@
 <?php
-$host = "mysql-johnxito.alwaysdata.net";
+$host = "ftp-johnxito.alwaysdata.net";
 $usuario = "johnxito";
 $password = "alexander1234@";
 $bd = "gestion_usuarios";
